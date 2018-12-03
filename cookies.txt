@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.impactwid.com	TRUE	/	FALSE	1999999999	ss_cid	50d844c1-61f9-40fc-8ba7-02a271dc7449
+www.impactwid.com	TRUE	/	FALSE	1999999999	ss_cvisit	1543848899273
+www.impactwid.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1543848899273
+www.impactwid.com	TRUE	/	FALSE	1999999999	crumb	BTZzBL0HXSIgN2RkYWRmOGQ3MTc0NGM3ZWRlMzU1Yjc3NTA4MGIy
+

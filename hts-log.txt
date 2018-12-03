@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Mon, 03 Dec 2018 09:54:57 at http://www.impactwid.com/
+(httrack http://www.impactwid.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:55:15	Error: 	"Not Found" (404) at link www.impactwid.com/questionnaire (from www.impactwid.com/)
+09:55:18	Error: 	"Not Found" (404) at link www.impactwid.com/impact-2016/sponsor (from www.impactwid.com/sponsor)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 26 links scanned, 23 files written (1254028 bytes overall) [285056 bytes received at 12957 bytes/sec], 1353049 bytes transferred using HTTP compression in 25 files, ratio 19%
+(2 errors, 0 warnings, 0 messages)
